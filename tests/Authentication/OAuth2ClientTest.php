@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\Tests\Authentication;
+namespace Facebook\Tests\;
 
 use Facebook\Facebook;
 use Facebook\FacebookApp;
